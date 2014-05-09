@@ -1,0 +1,21 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "Minimalist multiroom chat server",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7",
+    "logfmt": "^1.1.2",
+    "express": "^4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GanadiniAkshay/Chatroom.git"
+  },
+  "keywords": [
+    "chatroom",
+    "heroku"
+  ],
+  "author": "akshay",
+  "license": "open GPL"
+}
